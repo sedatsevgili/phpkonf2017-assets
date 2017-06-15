@@ -8,3 +8,4 @@ links, slides, important assets about phpkonf2017
 * bookset: https://twitter.com/NSDeveloper/status/866277375037911040/photo/1
 * php language trivia: https://www.slideshare.net/nikita_ppv/php-language-trivia
 * designing the m in mvc: https://speakerdeck.com/akrabat/designing-the-m-in-mvc-1
+* total recall - the application that never forgets: https://speakerdeck.com/hollodotme/total-recall-the-application-that-never-forgets
